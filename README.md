@@ -1,0 +1,2 @@
+# bhoot
+setting up git
